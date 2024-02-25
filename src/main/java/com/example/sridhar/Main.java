@@ -15,7 +15,7 @@ public class Main {
             System.out.println("3. Multiplication");
             System.out.println("4. Division");
             System.out.println("5. Square Root");
-            System.out.println("6. Natural Logarithm");
+            System.out.println("6. Natural Logarithms");
             System.out.println("7. Factorial");
             System.out.println("8. Power");
             System.out.println("9. Exit");
